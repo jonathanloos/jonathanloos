@@ -8,6 +8,7 @@ I am a problem solver disguised as a software engineer, kind of like spiderman �
 ## 🫂 A note on mental health
 Recognition that mental health affects us all in different ways is critical for us to connect and support our community. Encouragement is sent to anyone who feels like they are struggling or have a friend who is struggling to reach out, seek help and support others whenever possible.
 
+## IAM
 - 🔭 Me now
   - Graduated from the University of Waterloo (Apr 2020) with a BASc in Systems Design Engineering
   - Web Developer for [Harled Inc.](https://github.com/harled), specializing in full stack Rails web applications
