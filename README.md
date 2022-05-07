@@ -3,7 +3,7 @@
 
 ### Hey 👋 I'm Jon
 
-I am a problem solver disguised as a software engineer, kind of like spiderman 🕷  but you know... not. I love dogs with a slight bias towards Labs, Weims and Dobies (Gonzo wouldn't appreciate being left out of this..). I grew up with Track and Field and Soccer being tightly coupled with my life until parting ways to focus on volleyball at the University of Waterloo, where I graduated with a BASc in Systems Design Engineering.
+I am a problem solver disguised as a software engineer. I love dogs with a slight bias towards Labs, Weims and Dobies (Gonzo wouldn't appreciate being left out of this..). I grew up with Track and Field and Soccer being tightly coupled with my life until parting ways to focus on volleyball at the University of Waterloo, where I graduated with a BASc in Systems Design Engineering.
 
 ## 🫂 A note on mental health
 Recognition that mental health affects us all in different ways is critical for us to connect and support our community. Encouragement is sent to anyone who feels like they are struggling or have a friend who is struggling to reach out, seek help and support others whenever possible.
