@@ -1,4 +1,3 @@
-> Wow, you're tall for a developer 🤦🏼‍♂️ 🙅🏼‍♂️ 😫 
 <img src="IMG_2199.png" alt="Gonzo Bonzo" width="250px" align="right" />
 
 ### Hey 👋 I'm Jon
