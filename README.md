@@ -1,4 +1,4 @@
-<img src="IMG_2199.png" alt="Gonzo Bonzo" width="250px" align="right" />
+<img src="gonzo.png" alt="Gonzo Bonzo" width="250px" align="right" />
 
 ### Hey 👋 I'm Jon
 
