@@ -25,4 +25,4 @@ Thanks for taking a read! I'd love to get in touch if you or someone you know is
 - [LinkedIn](https://www.linkedin.com/in/jonathan-loos/)
 - [Twitter](https://twitter.com/loos_jonathan)
 - PR to an OSS project I'm working on
-- Shoot me an [email](jonathanloos97@gmail.com)
+- Shoot me an [email](mailto:jonathanloos97@gmail.com)
