@@ -15,10 +15,10 @@ This is always a tough question to answer because relationships can grow over ti
 I am very much fueled by the team and environment that I'm currently in. For example, while still able to work well independently, remote work killed my motivation because I wasn't in the office with the team. However, using tools like [Gather](https://harled.ca/blog/gather_for_hybrid_teams) really helped me find fun and energy in my work until we could get back into the office. There's just something about having a bunch of like minded people grinding work all around me that keeps me going.
 
 ## ⛽️ How I lead
-I like to pump tires for those who deserve it. Recognition is an amazing tool that I feel is severely underutilized because of factors like pride and humility. Gassing up a teammate while avoiding overexaggeration keeps my team going, so I will make sure it happens. Giving the team the motivation to continue is all the leading I need to to most of the time, the rest takes care of itself.
+I like to pump tires for those who deserve it. Recognition is an amazing tool that I feel is severely underutilized because of factors like pride and humility. Gassing up a teammate while avoiding over exaggeration keeps my team going, so I will make sure it happens. Giving the team the motivation to continue is all the leading I need to do most of the time, the rest takes care of itself.
 
 ## 💭 How I follow
-I'm not afraid to give feedback and have healthy discussions with whoever it is I'm learning from. I work best when there's a mutual understanding between me and my superior that I will respect their opinions and suggestions so long as I feel a mutual respect in return. I love to talk it out, and struggle if the receiving party isn't responsive to suggestion or change.
+I'm not afraid to give feedback and have healthy discussions with whoever it is I'm learning from. I work best when there's a mutual understanding between me and my superior that I will respect their opinions and suggestions so long as I feel a mutual respect in return. I love to talk it out, and struggle if the receiving party isn't responsive to suggestions or changes.
 
 ## ☎️ How to get in touch
 Thanks for taking a read! I'd love to get in touch if you or someone you know is looking to chat/learn/teach/etc... Find me at:
